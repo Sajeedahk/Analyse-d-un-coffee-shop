@@ -36,9 +36,9 @@ Les graphiques sont personnalisés avec un fond marron pour refléter l'identit�
 
 ## À venir
 
-- 📄 Rédaction complète de la documentation
-- 🧪 Nettoyage avancé des données
-- 💡 Ajout de recommandations stratégiques
+-  Rédaction complète de la documentation
+-  Nettoyage avancé des données
+-  Ajout de recommandations stratégiques
 
 
 > Ce projet est en cours de finalisation.
